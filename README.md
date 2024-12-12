@@ -4,6 +4,7 @@
 - 📫 How to reach me: biamello5@gmail.com
 - 😄 Pronouns: Her
 - ⚡ Fun fact: I love dogs.
+-  https://www.linkedin.com/in/mellobianca/
 
 <!---
 BCFMello/BCFMello is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
